@@ -342,3 +342,8 @@ body {
     grid-template-columns: 1fr;
   }
 }
+@media (max-width: 465px) {
+  .navlink {
+    display: none;
+  }
+}
