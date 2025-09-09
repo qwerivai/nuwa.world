@@ -343,7 +343,8 @@ body {
   }
 }
 @media (max-width: 465px) {
-  .navlink {
+  .nav-links {
     display: none;
   }
 }
+
